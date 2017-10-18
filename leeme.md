@@ -8,4 +8,6 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 
 ###Flujo de trabajo básico en Git
 
+
+
 ###Configurando Git por primera vez
