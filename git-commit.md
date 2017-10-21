@@ -3,3 +3,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque dignissimos opt
 
 ###git commit --amend
 Si no hemos hecho cambios desde la última confirmación entonces la instantánea (commit) lucirá exactamente igual
+
+### Git commit -a -m "Mensaje del commit"
+Con este comando podemos saltar el area de prepararción
