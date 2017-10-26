@@ -16,3 +16,6 @@ Esta línea fue creada en la rama master
 
 ## Aportes desde otra cuenta
 Este texto fue aportado desde la cuenta de otro usuario.
+
+## Varios repositorios remotos
+Podemos configurar un mismo con varios repositorios remotos
