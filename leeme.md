@@ -13,5 +13,3 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 ## Configurando Git por primera vez
 
 Esta línea fue creada en la rama master
-
-Esta línea se agregó desde un equipo windows conectado al repositorio local con Github a traves de HTTPS.
